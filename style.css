@@ -4,6 +4,7 @@ body{
 
 #kind{
     font-family: 'Raleway', sans-serif;
+<<<<<<< HEAD
 }
 
 #humble{
@@ -15,4 +16,14 @@ body{
 }
 
 
+=======
+    background-color:#BE7C4D;
+}
+
+#roll{
+    list-style-type: none;
+    text-align: center;
+}
+
+>>>>>>> refs/remotes/origin/master
 

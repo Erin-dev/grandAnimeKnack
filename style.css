@@ -11,10 +11,6 @@ body{
 }
 
 #kind{
-    list-style-type: none;
-}
-
-#calm{
-    text-align: center;
+    font-family: 'Raleway', sans-serif;
 }
 

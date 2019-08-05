@@ -14,3 +14,10 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 
+#agreed{
+    float: right;
+}
+
+#open{
+    position: static;
+}

@@ -1,3 +1,20 @@
 body{
+    background-color:#BE7C4D;
+}
+
+#index{
     font-family: 'Raleway', sans-serif;
 }
+
+#power{
+    font-family: 'Raleway', sans-serif;
+}
+
+#kind{
+    list-style-type: none;
+}
+
+#calm{
+    text-align: center;
+}
+
